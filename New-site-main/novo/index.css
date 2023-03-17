@@ -1,0 +1,39 @@
+body {
+    background-image: url("/New-site-main/");
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    gap: 5em;
+    margin-left: 150px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    text-align: center;
+    align-items: center;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    height: auto;
+    text-align: center;
+}
+
+h1{
+    margin-left: 280px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:x-large;
+    text-align: center;
+    padding-top: 0.5%;
+}
+
+header {
+    display: flex;
+    text-align: right;
+}
