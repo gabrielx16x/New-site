@@ -1,17 +1,17 @@
 body {
-    background-image: url("/New-site-main/");
+    background-color: blue;
 }
 
 p {
     font-family: 'Courier New', Courier, monospace;
-    font-size: medium;
+    font-size: large;
 }
 
 nav {
     display: flex;
     justify-content: space-around;
     gap: 5em;
-    margin-left: 150px;
+    margin-left: 100px;
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
     text-align: center;
@@ -26,7 +26,8 @@ h2{
 }
 
 h1{
-    margin-left: 280px;
+    margin-left: 20px;
+    
     font-family: 'Courier New', Courier, monospace;
     font-size:x-large;
     text-align: center;
@@ -36,4 +37,10 @@ h1{
 header {
     display: flex;
     text-align: right;
+}
+
+hr {
+    margin-right: 2px;
+    color: firebrick;
+    margin-top: 3px;
 }
